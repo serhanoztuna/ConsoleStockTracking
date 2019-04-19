@@ -1,0 +1,13 @@
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\bin\Debug\ndp3.exe.config
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\bin\Debug\ndp3.exe
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\bin\Debug\ndp3.pdb
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\obj\Debug\ndp3.csprojResolveAssemblyReference.cache
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\obj\Debug\ndp3.exe
+c:\users\serhan\documents\visual studio 2015\Projects\ndp3\ndp3\obj\Debug\ndp3.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\bin\Debug\ndp3.exe.config
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\bin\Debug\ndp3.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\bin\Debug\ndp3.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\obj\Debug\ndp3.csprojAssemblyReference.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\obj\Debug\ndp3.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\obj\Debug\ndp3.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\ndp3\ndp3\obj\Debug\ndp3.pdb
